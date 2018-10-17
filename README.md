@@ -27,13 +27,13 @@ as I'm coming from more MMORPG background I can say that usually the possibiliti
 So to recap, the purpose of this project is to share what ever I find helpful, there isn't a single day that I'm not reading and most of the things I do read are either old and out of date,
 repeating or simply not true but out of this 90% you can find 10% of good and worth your time content that I usually save in my bookmarks just for future reference, in this repo I will share and explain why I shared with you this bit.
 
-## What will I share with you here :thought_balloon:
+## What will I share with you here :speech_balloon:
 
 I've decided to structure this project in a way that you can filter only what you care about, in each folder you can expect to find different .md files which will contain different type of content.
 
 Books - Articles - Courses / Videos - Other Resources
 
-## How can you benefit from this repository :pray:
+## How can you benefit from this repository :raised_hands:
 
 There are many ways which you can benefit from this repository:
 
